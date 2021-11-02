@@ -1,0 +1,10 @@
+C:\NEUMONT\CSC360_SoftDesignPrinc\labs\factory_pattern_lab\factory_pattern_lab\bin\Debug\factory_pattern_lab.exe.config
+C:\NEUMONT\CSC360_SoftDesignPrinc\labs\factory_pattern_lab\factory_pattern_lab\bin\Debug\factory_pattern_lab.exe
+C:\NEUMONT\CSC360_SoftDesignPrinc\labs\factory_pattern_lab\factory_pattern_lab\bin\Debug\factory_pattern_lab.pdb
+C:\NEUMONT\CSC360_SoftDesignPrinc\labs\factory_pattern_lab\factory_pattern_lab\obj\Debug\factory_pattern_lab.csprojAssemblyReference.cache
+C:\NEUMONT\CSC360_SoftDesignPrinc\labs\factory_pattern_lab\factory_pattern_lab\obj\Debug\factory_pattern_lab.Form1.resources
+C:\NEUMONT\CSC360_SoftDesignPrinc\labs\factory_pattern_lab\factory_pattern_lab\obj\Debug\factory_pattern_lab.Properties.Resources.resources
+C:\NEUMONT\CSC360_SoftDesignPrinc\labs\factory_pattern_lab\factory_pattern_lab\obj\Debug\factory_pattern_lab.csproj.GenerateResource.cache
+C:\NEUMONT\CSC360_SoftDesignPrinc\labs\factory_pattern_lab\factory_pattern_lab\obj\Debug\factory_pattern_lab.csproj.CoreCompileInputs.cache
+C:\NEUMONT\CSC360_SoftDesignPrinc\labs\factory_pattern_lab\factory_pattern_lab\obj\Debug\factory_pattern_lab.exe
+C:\NEUMONT\CSC360_SoftDesignPrinc\labs\factory_pattern_lab\factory_pattern_lab\obj\Debug\factory_pattern_lab.pdb
